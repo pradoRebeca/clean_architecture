@@ -1,16 +1,23 @@
-# hyrule
+## Flutter: Praticando arquitetura Clean Code
 
-A new Flutter project.
+Projeto Hyrule para o curso Flutter: Praticando arquitetura Clean Code disponivel na plataforma Alura, focado em compreender e implementar uma arquitetura limpa em seu projeto.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## ✨Funcionalidades do projeto
 
-A few resources to get you started if this is your first Flutter project:
+- Buscar entradas de uma API de acordo com uma categoria;
+- Salvar uma entrada no banco de dados;
+- Mostrar entradas;
+- Deletar uma entrada;
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/pradoRebeca/clean_architecture/assets/89099816/a2abc26f-8657-4a6c-abec-1de93c7bb650
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🛠️ Abrir e rodar o projeto
+
+Aqui vem um passo a passo para abrir e rodar o projeto.
+
+- Open an Existing Project (ou alguma opção similar)
+- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
+- Por fim clique em OK
+- Depois basta rodar o comando flutter run na pasta do projeto
